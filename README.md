@@ -6,3 +6,6 @@ There is nothing too complex going on with this website, it uses vanilla Javascr
 That being said I am still pretty proud of this website because it was my first web aplication and the app that I used to teach myself all of those languages!
 
 If you would like to check it out here is the [link](https://ryancartularo.github.io/Holiday-Countdown-Clock/)
+
+
+![Image of Website](https://github.com/RyanCartularo/Pathfinding-Algorithm-Display/blob/main/images/Empty%20Grid%20Picture.PNG)
