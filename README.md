@@ -8,4 +8,4 @@ That being said I am still pretty proud of this website because it was my first 
 If you would like to check it out here is the [link](https://ryancartularo.github.io/Holiday-Countdown-Clock/)
 
 
-![Image of Website](https://github.com/RyanCartularo/Pathfinding-Algorithm-Display/blob/main/images/Empty%20Grid%20Picture.PNG)
+![Image of Website](https://github.com/RyanCartularo/Holiday-Countdown-Clock/blob/master/images/countdown%20timer%20image.PNG)
