@@ -5,10 +5,10 @@ const secondsEl = document.getElementById("seconds");
 
 const eventEl = document.getElementById("event");
 
-const christmas = "25 Dec 2020";
+const christmas = "25 Dec 2021";
 const halloween = "31 Oct 2021";
 const thanksgiving = "25 Nov 2021";
-const newYears = "1 Jan 2021";
+const newYears = "1 Jan 2022";
 const valentines = "14 Feb 2021";
 const easter = "4 Apr 2021";
 const birthday = "16 Aug 2021";
@@ -31,7 +31,7 @@ function countdown() {
     if(holidaySelector == 3){ 
 
     document.body.style.backgroundImage = "url('./christmas.jpg')";
-    eventEl.innerHTML = "Chirstmas";
+    eventEl.innerHTML = "Christmas";
     daysEl.innerHTML = days;
     hoursEl.innerHTML = formatTime(hours);
     minsEl.innerHTML = formatTime(mins);
@@ -120,7 +120,7 @@ function countdownValentines() {
     if(holidaySelector == 5){
 
     document.body.style.backgroundImage = "url('./valentines.jpg')";
-    eventEl.innerHTML = "Valentines";
+    eventEl.innerHTML = "Valentine's Day";
     daysEl.innerHTML = days;
     hoursEl.innerHTML = formatTime(hours);
     minsEl.innerHTML = formatTime(mins);
